@@ -1,0 +1,455 @@
+[
+  {
+    "nome": "Arquitetura Classica",
+    "descricao": "A arquitetura clássica, desenvolvida na Grécia e aperfeiçoada em Roma, buscava harmonia, proporção e beleza racional. Marcada pelo uso das ordens arquitetônicas (Dórica, Jônica e Coríntia), pela simetria e pelo emprego de materiais nobres como o mármore, tornou-se referência de equilíbrio formal. Seus templos, fóruns e espaços cívicos influenciaram toda a história posterior da arquitetura, simbolizando poder, razão e perfeição estética.",
+    "ano": "Até o século V d.C.",
+    "link": "https://blog.archtrends.com/arquitetura-classica-de-a-z/",
+    "imagem": "imagens/classica.jpg",
+    "tags": [
+      "clássica",
+      "classico",
+      "greco-romana",
+      "antiga",
+      "roma",
+      "grécia",
+      "arquitetura grega",
+      "arquitetura romana"
+    ]
+  },
+  {
+    "nome": "Arquitetura Medieval",
+    "descricao": "A arquitetura medieval abrange principalmente os estilos Românico e Gótico. O Românico apresenta formas robustas, paredes espessas e atmosfera de fortaleza; já o Gótico introduz verticalidade, grandes vitrais e estruturas inovadoras que permitem maior iluminação interna. É uma era de forte expressão religiosa, em que igrejas e catedrais buscavam transmitir espiritualidade, proteção e ligação com o divino.",
+    "ano": "Entre os séculos X e XV",
+    "link": "https://blog.archtrends.com/arquitetura-medieval/",
+    "imagem": "imagens/medieval.jpg",
+    "tags": [
+      "medieval",
+      "idade média",
+      "românico",
+      "romanico",
+      "gótico",
+      "gotico",
+      "arquitetura medieval"
+    ]
+  },
+  {
+    "nome": "Arquitetura Renascentista",
+    "descricao": "O Renascimento retoma os ideais clássicos de simetria, proporção e racionalidade, rejeitando a verticalidade dramática do gótico. Surgido na Itália, enfatiza o equilíbrio geométrico, a clareza estrutural e a monumentalidade serena. Foi uma época marcada pelo humanismo, em que a arquitetura passou a valorizar o indivíduo e a razão, unindo ciência, arte e matemática na criação de edifícios harmônicos e atemporais.",
+    "ano": "Entre os séculos XIV e XVI",
+    "link": "https://www.todamateria.com.br/arquitetura-renascentista/",
+    "imagem": "imagens/renascentista.jpg",
+    "tags": [
+      "renascentista",
+      "renascimento",
+      "humanismo",
+      "florença",
+      "italiana",
+      "renascentismo"
+    ]
+  },
+  {
+    "nome": "Arquitetura Barroca",
+    "descricao": "O Barroco surge para provocar emoção e teatralidade, utilizando curvas expressivas, contrastes de luz e sombra e uma ornamentação rica e dinâmica. Ligado à Contrarreforma, buscava impressionar fiéis e afirmar o poder da Igreja por meio da grandiosidade espacial. Igrejas, palácios e esculturas se integram nesse estilo exuberante, que celebra movimento, intensidade e dramaticidade visual.",
+    "ano": "Entre os séculos XVII e XVIII",
+    "link": "https://blog.archtrends.com/arquitetura-barroca/",
+    "imagem": "imagens/barroca.jpg",
+    "tags": [
+      "barroca",
+      "barroco",
+      "dramática",
+      "opulência",
+      "igrejas barrocas",
+      "italiana"
+    ]
+  },
+  {
+    "nome": "Arquitetura Moderna",
+    "descricao": "A arquitetura moderna rompe com a ornamentação histórica e privilegia a função, a simplicidade e a honestidade estrutural. Linhas retas, formas puras e o uso de concreto, vidro e aço definem sua estética racional. Influenciada pela Bauhaus e por arquitetos como Le Corbusier e Mies van der Rohe, defende que a arquitetura deve servir à vida contemporânea, de forma prática e universal.",
+    "ano": "Início do século XX",
+    "link": "https://www.projetou.com.br/posts/arquitetura-moderna/",
+    "imagem": "imagens/moderna.jpg",
+    "tags": [
+      "moderna",
+      "modernismo",
+      "movimento moderno",
+      "bauhaus",
+      "funcionalismo",
+      "moderno"
+    ]
+  },
+  {
+    "nome": "Arquitetura Rococó",
+    "descricao": "O Rococó é uma versão mais leve e intimista do Barroco, voltado principalmente para interiores delicados e ornamentados. Caracteriza-se por cores suaves, motivos naturais, formas assimétricas e uma estética graciosa que transmite elegância e leveza. Representa o refinamento da aristocracia europeia, criando espaços destinados ao prazer, ao conforto e à ornamentação sofisticada.",
+    "ano": "Século XVIII",
+    "link": "https://blog.archtrends.com/rococo/",
+    "imagem": "imagens/rococo.jpg",
+    "tags": [
+      "rococó",
+      "rococo",
+      "ornamental",
+      "pastel",
+      "decorativo",
+      "barroco tardio"
+    ]
+  },
+  {
+    "nome": "Arquitetura Neoclássica",
+    "descricao": "O Neoclassicismo resgata a simplicidade e a racionalidade dos modelos greco-romanos como resposta ao excesso do Barroco e Rococó. Valorizando proporção, simetria e monumentalidade, utiliza colunas, frontões e formas geométricas claras. Associado ao Iluminismo, transmite ordem, civismo e grandiosidade, sendo amplamente empregado em edifícios públicos e institucionais.",
+    "ano": "Final do século XVIII e início do XIX",
+    "link": "https://planner5d.com/blog/pt/arquitetura-neoclassica/",
+    "imagem": "imagens/neoclassico.jpg",
+    "tags": [
+      "neoclássica",
+      "neoclassica",
+      "neoclassicismo",
+      "clássica moderna",
+      "greco-romana",
+      "monumental"
+    ]
+  },
+  {
+    "nome": "Art Déco",
+    "descricao": "O Art Déco combina luxo, modernidade e geometria, refletindo o otimismo tecnológico das décadas de 1920 e 1930. O estilo utiliza formas simétricas, linhas aerodinâmicas e materiais nobres como cromo, vidro e laca. Elegante e glamouroso, marcou arranha-céus, cinemas, interiores e peças de design, tornando-se um símbolo da modernidade urbana e do progresso industrial.",
+    "ano": "Décadas de 1920 e 1930",
+    "link": "https://casacor.abril.com.br/pt-BR/noticias/arquitetura/art-deco-o-que-e-caracteristicas",
+    "imagem": "imagens/artdeco.jpg",
+    "tags": [
+      "art déco",
+      "art deco",
+      "deco",
+      "anos 20",
+      "anos 30",
+      "geométrico",
+      "glamour"
+    ]
+  },
+  {
+    "nome": "Arquitetura Pós-Moderna",
+    "descricao": "A pós-modernidade surge como crítica ao rigor do modernismo e reintroduz cores, ornamentos e referências históricas, frequentemente com humor ou ironia. É um estilo eclético que valoriza a comunicação visual e a diversidade de linguagens, rejeitando a ideia de uma arquitetura única e universal. Os edifícios tornam-se expressivos, simbólicos e, muitas vezes, provocadores.",
+    "ano": "A partir da década de 1960",
+    "imagem": "imagens/pos-moderna.jpg",
+    "link": "https://casavogue.globo.com/Arquitetura/noticia/2021/09/arquitetura-pos-moderna-como-o-estilo-ganhou-novos-contornos-em-minas-gerais-e-se-espalhou-pelo-brasil.html",
+    "tags": [
+      "pós-moderna",
+      "pos moderna",
+      "pós-modernismo",
+      "pos-modernismo",
+      "irônica",
+      "colorida"
+    ]
+  },
+  {
+    "nome": "Arquitetura Desconstrutivista",
+    "descricao": "O desconstrutivismo desafia conceitos tradicionais de ordem e estabilidade, criando formas fragmentadas, dinâmicas e aparentemente caóticas. Influenciada por Zaha Hadid, Frank Gehry e pela filosofia de Derrida, essa arquitetura busca romper com a linearidade e explorar geometrias inesperadas. O resultado são edifícios escultóricos que parecem desafiar a lógica e a gravidade.",
+    "ano": "Final do século XX",
+    "imagem": "imagens/desconstrutivista.jpg",
+    "link": "https://www.archdaily.com.br/br/900679/o-que-e-desconstrutivismo",
+    "tags": [
+      "desconstrutivismo",
+      "desconstrutivista",
+      "fragmentada",
+      "caótica",
+      "zaha hadid",
+      "formas irregulares"
+    ]
+  },
+  {
+    "nome": "Arquitetura Gótica",
+    "descricao": "Caracterizada por arcos ogivais, abóbadas de nervuras e arcobotantes, a arquitetura gótica permitiu grandes alturas e amplos vitrais que inundam os interiores de luz colorida. É um estilo profundamente ligado à espiritualidade medieval, simbolizando a ascensão ao divino por meio de estruturas verticais e atmosféricas.",
+    "ano": "Século XII ao XVI",
+    "imagem": "imagens/gotica.png",
+    "link": "https://www.archdaily.com.br/br/983846/as-origens-e-evolucao-da-arquitetura-gotica",
+    "tags": [
+      "europeu",
+      "estruturas altas",
+      "vitrais",
+      "religioso"
+    ]
+  },
+  {
+    "nome": "Arquitetura Românica",
+    "descricao": "Com aspecto sólido e fortificado, o estilo românico utiliza paredes espessas, arcos de volta perfeita, pilares robustos e pequenas aberturas. Suas igrejas e mosteiros transmitem proteção, estabilidade e espiritualidade serena. É considerado o primeiro grande estilo unificado da Europa medieval.",
+    "ano": "Século X ao XII",
+    "imagem":"imagens/romanica.jpg",
+    "link": "https://arquitetura.vivadecora.com.br/arquitetura-romanica/",
+    "tags": [
+      "medieval",
+      "fortificada",
+      "robustez",
+      "abóbadas"
+    ]
+  },
+  {
+    "nome": "Arquitetura Egípcia Antiga",
+    "descricao": "Imponente e simbólica, a arquitetura egípcia busca expressar eternidade e poder divino. Usa principalmente pedra e destaca-se por templos, obeliscos e pirâmides perfeitamente alinhadas com elementos religiosos e cósmicos. O monumentalismo e a durabilidade eram essenciais para reforçar a crença na vida após a morte.",
+    "ano": "3000 a.C. a 30 a.C.",
+    "imagem":"imagens/egipciaAntiga.jpg",
+    "link": "https://blog.archtrends.com/arquitetura-egipcia/",
+    "tags": [
+      "monumental",
+      "pirâmides",
+      "simbolismo",
+      "rio Nilo"
+    ]
+  },
+  {
+    "nome": "Arquitetura Bizantina",
+    "descricao": "A arquitetura bizantina combina tradição romana com simbolismo cristão, marcada por cúpulas monumentais apoiadas em pendentives e interiores ricamente decorados com mosaicos dourados. As construções evocam espiritualidade e esplendor, criando espaços luminosos e sofisticados que marcaram o Império do Oriente.",
+    "ano": "Século IV ao XV",
+    "imagem": "imagens/bizantina.jpg",
+    "link": "https://blog.archtrends.com/arquitetura-bizantina/",
+    "tags": [
+      "cúpulas",
+      "mosaicos",
+      "cristianismo oriental",
+      "Hagia Sophia"
+    ]
+  },
+  {
+    "nome": "Arquitetura Mesopotâmica",
+    "descricao": "Construída majoritariamente com tijolos de barro, a arquitetura mesopotâmica destaca-se pelos zigurates — grandes torres templárias em degraus. Suas formas maciças e repetidas revelam a importância religiosa e administrativa das cidades da Suméria e Babilônia, refletindo as características materiais da região.",
+    "ano": "5000 a.C. a 539 a.C.",
+    "imagem":"imagens/mesopotamica.jpg",
+    "link": "https://blog.archtrends.com/arquitetura-mesopotamica/",
+    "tags": [
+      "zigurates",
+      "tijolos de barro",
+      "suméria",
+      "antiguidade"
+    ]
+  },
+  {
+    "nome": "Arquitetura Neogótica",
+    "descricao": "O Neogótico retoma símbolos e formas do gótico medieval, como arcos ogivais e vitrais, mas reinterpretado no contexto industrial do século XIX. É um revival que expressa valores moralistas e espiritualidade, contrastando com o racionalismo neoclássico. Foi muito usado em igrejas, universidades e prédios públicos.",
+    "ano": "Século XIX",
+    "imagem": "imagens/neogotico.jpg",
+    "link": "https://revistacasaejardim.globo.com/arquitetura/noticia/2025/10/arquitetura-neogotico.ghtml",
+    "tags": [
+      "revival",
+      "século XIX",
+      "gótico",
+      "moralidade"
+    ]
+  },
+  {
+    "nome": "Arquitetura Art Nouveau",
+    "descricao": "A Art Nouveau celebra formas orgânicas, linhas sinuosas e referências à natureza. Contra a produção industrial massificada, busca integrar arte e vida cotidiana. Seus edifícios e interiores apresentam curvas fluidas, vitrais delicados e ornamentações inspiradas em flores, plantas e movimento natural.",
+    "ano": "1890 a 1910",
+    "imagem": "imagens/artNouveau.jpg",
+    "link": "https://pt.wikipedia.org/wiki/Art_Nouveau",
+    "tags": [
+      "curvas",
+      "orgânico",
+      "decorativo",
+      "belle époque"
+    ]
+  },
+  {
+    "nome": "Arquitetura Vitoriana",
+    "descricao": "A arquitetura vitoriana reúne diversos estilos revivalistas, resultando em construções ornamentadas, ecléticas e altamente decorativas. Caracteriza-se por fachadas detalhadas, telhados complexos e influência da industrialização, que permitiu produzir elementos decorativos em massa.",
+    "ano": "1837 a 1901",
+    "imagem":"imagens/vitoriana.jpg",
+    "link": "https://pt.wikipedia.org/wiki/Arquitetura_vitoriana",
+    "tags": [
+      "ecletismo",
+      "revivalismo",
+      "ornamentação",
+      "era industrial"
+    ]
+  },
+  {
+    "nome": "Movimento Arts and Crafts",
+    "descricao": "Em reação à industrialização, o Arts and Crafts valoriza o artesanato, a simplicidade formal e a honestidade dos materiais. Defende o design feito à mão e a integração entre arte e vida prática. O movimento influenciou fortemente o design moderno e o início da arquitetura contemporânea.",
+    "ano": "1880 a 1920",
+    "imagem":"imagens/artsCrafts.jpg",
+    "link": "https://histarq.wordpress.com/2014/03/21/aula-2-arts-crafts/",
+    "tags": [
+      "artesanal",
+      "simplicidade",
+      "William Morris",
+      "rejeição industrial"
+    ]
+  },
+  {
+    "nome": "Escola de Chicago",
+    "descricao": "Pioneira no uso de estruturas de aço e concreto, a Escola de Chicago revolucionou a construção de arranha-céus. Seus edifícios apresentam fachadas funcionais, grandes janelas e formas simples, priorizando eficiência e clareza estrutural. É um marco do desenvolvimento das cidades modernas.",
+    "ano": "1880 a 1900",
+    "imagem":"imagens/chicago.jpg",
+    "link": "https://www.estilosarquitetonicos.com.br/escola-de-chicago/",
+    "tags": [
+      "arranha-céus",
+      "estrutura de aço",
+      "funcionalidade",
+      "Louis Sullivan"
+    ]
+  },
+  {
+    "nome": "Arquitetura Futurista",
+    "descricao": "Movimento italiano que celebra velocidade, máquinas e energia urbana. Propõe formas ousadas, dinâmicas e aerodinâmicas, refletindo o entusiasmo com a modernidade e a tecnologia. Suas ideias influenciaram profundamente o pensamento arquitetônico do século XX.",
+    "ano": "1910 a 1940",
+    "imagem":"imagens/futurista.jpg",
+    "link": "https://blog.archtrends.com/arquitetura-futurista/",
+    "tags": [
+      "utópico",
+      "velocidade",
+      "movimento",
+      "Antonio Sant'Elia"
+    ]
+  },
+  {
+    "nome": "Construtivismo Russo",
+    "descricao": "Com forte compromisso social, o construtivismo usa formas geométricas puras, materiais industriais e estruturas funcionais. A arquitetura torna-se ferramenta política e coletiva, buscando criar espaços eficientes e acessíveis que representem os ideais revolucionários soviéticos.",
+    "ano": "1919 a 1930",
+    "imagem":"imagens/construtivismoRusso.jpg",
+    "link": "https://www.archdaily.com.br/br/tag/arquitetura-construtivista",
+    "tags": [
+      "soviético",
+      "função social",
+      "geometria",
+      "materiais industriais"
+    ]
+  },
+  {
+    "nome": "Estilo Internacional",
+    "descricao": "Parte do movimento moderno, o Estilo Internacional elimina ornamentos, privilegiando planos lisos, janelas contínuas e estruturas em aço e vidro. Tornou-se um padrão global para edifícios corporativos e residenciais, defendendo universalidade e racionalidade funcional.",
+    "ano": "1920 a 1970",
+    "imagem":"imagens/internacional.jpg",
+    "link": "https://www.archdaily.com.br/br/997651/uma-breve-historia-do-estilo-internacional",
+    "tags": [
+      "funcionalismo",
+      "vidro e aço",
+      "Mies van der Rohe",
+      "minimalismo"
+    ]
+  },
+  {
+    "nome": "Brutalismo",
+    "descricao": "O Brutalismo enfatiza o concreto aparente, as formas massivas e a estética crua, transmitindo força e honestidade construtiva. Surgido no pós-guerra, valoriza a funcionalidade, a materialidade e a arquitetura como expressão direta de estrutura e função.",
+    "ano": "1950 a 1970",
+    "imagem":"imagens/brutalismo.jpg",
+    "link": "https://archshop.com.br/arquitetura-brutalista-historia-e-caracteristicas?srsltid=AfmBOopDDGQaCzA3qWz9bEYLGg28F3ffEgRrafNfK_ts4bUf4BF0RRMc",
+    "tags": [
+      "concreto aparente",
+      "funcionalidade",
+      "formas maciças",
+      "pós-guerra"
+    ]
+  },
+  {
+    "nome": "Metabolismo Japonês",
+    "descricao": "Propõe edifícios que funcionam como organismos vivos, capazes de se expandir e evoluir. Utiliza cápsulas modulares, megaestruturas e soluções futuristas que respondem ao crescimento urbano acelerado do Japão. É um dos movimentos mais inovadores do século XX.",
+    "ano": "1960 a 1975",
+    "imagem":"imagens/metabolismoJapones.jpg",
+    "link": "https://www.archdaily.com.br/br/tag/metabolismo",
+    "tags": [
+      "Japão",
+      "megaestrutura",
+      "cápsulas",
+      "crescimento orgânico"
+    ]
+  },
+  {
+    "nome": "Arquitetura High-Tech",
+    "descricao": "A arquitetura High-Tech expõe tubulações, estruturas metálicas e sistemas mecânicos como elementos estéticos. Inspirada na engenharia, valoriza transparência, tecnologia e flexibilidade espacial, criando edifícios de aparência industrial altamente inovadores.",
+    "ano": "1970 a 1980",
+    "imagem":"imagens/highTech.jpg",
+    "link": "https://blog.archtrends.com/arquitetura-high-tech-o-que-e-como-e-como-ela-altera-maneira-de-interagirmos-com-as-cidades/",
+    "tags": [
+      "engenharia exposta",
+      "tecnologia",
+      "indústria",
+      "estrutura metálica"
+    ]
+  },
+  {
+    "nome": "Arquitetura Pré-Colombiana",
+    "descricao": "Abrange as construções das civilizações ameríndias, adaptadas a terrenos complexos e com forte simbolismo religioso. Pirâmides, cidades planejadas e técnicas avançadas de pedra demonstram profundo conhecimento astronômico e integração com a paisagem.",
+    "ano": "Século X a.C. ao Século XVI d.C.",
+    "imagem":"imagens/preColombiana.jpg",
+    "link": "https://haac1.wordpress.com/2017/10/31/diferencas-arquitetonicas-entre-as-civilizacoes-pre-colombianas/",
+    "tags": [
+      "Américas",
+      "civilizações antigas",
+      "pirâmides",
+      "pedra"
+    ]
+  },
+  {
+    "nome": "Arquitetura Otomana",
+    "descricao": "Influenciada pela tradição islâmica e pela herança bizantina, a arquitetura otomana utiliza grandes cúpulas, minaretes e pátios internos. Suas mesquitas e complexos religiosos são marcados por equilíbrio, geometria e refinada ornamentação.",
+    "ano": "Século XIV ao XX",
+    "imagem":"imagens/otomana.jpg",
+    "link": "https://www.estilosarquitetonicos.com.br/arquitetura-otomana/",
+    "tags": [
+      "turquia",
+      "cúpulas",
+      "minaretes",
+      "islâmico"
+    ]
+  },
+  {
+    "nome": "Arquitetura Mughal",
+    "descricao": "Mistura elementos islâmicos e hindus, criando palácios, túmulos e jardins simétricos caracterizados por arcos, cúpulas e uso abundante de mármore branco. O Taj Mahal é seu maior ícone, simbolizando perfeição geométrica e elegância espiritual.",
+    "ano": "Século XVI ao XVIII",
+    "imagem":"imagens/mughal.jpg",
+    "link": "https://www.kaarwan.com/blog/architecture/key-characteristics-of-mughal-architecture-a-detailed-analysis?id=1155",
+    "tags": [
+      "índia",
+      "mármore",
+      "simetria",
+      "islâmico-hindu"
+    ]
+  },
+  {
+    "nome": "Arquitetura Paramétrica",
+    "descricao": "Utiliza algoritmos e softwares avançados para gerar formas fluídas, curvas e complexas. A arquitetura paramétrica privilegia relações matemáticas e modelos digitais, resultando em edifícios altamente personalizados e pertencentes à estética contemporânea digital.",
+    "ano": "Início do Século XXI",
+    "imagem":"imagens/parametrica.jpg",
+    "link": "https://www.archdaily.com.br/br/971014/o-que-e-arquitetura-parametrica",
+    "tags": [
+      "contemporâneo",
+      "algoritmos",
+      "formas fluidas",
+      "computacional"
+    ]
+  },
+  {
+    "nome": "Expressionismo Arquitetônico",
+    "descricao": "Movimento que explora emoção e subjetividade por meio de formas distorcidas, esculturais e experimentais. Usa materiais de maneira expressiva para criar atmosferas dramáticas, frequentemente ligadas ao clima intelectual do início do século XX.",
+    "ano": "1910 a 1930",
+    "imagem": "imagens/expressionismo.png",
+    "link": "https://coisasdaarquitetura.wordpress.com/2010/05/29/arquitetura-expressionista/",
+    "tags": [
+      "emoção",
+      "formas esculturais",
+      "Europa",
+      "tijolo"
+    ]
+  },
+  {
+    "nome": "Prairie School",
+    "descricao": "Desenvolvido nos Estados Unidos, esse estilo valoriza linhas horizontais, integração com a paisagem e ambientes abertos. Frank Lloyd Wright foi seu principal representante, criando casas que priorizam fluidez, acolhimento e conexão com a natureza.",
+    "ano": "1900 a 1920",
+    "imagem":"imagens/prairie.jpg",
+    "link": "https://coisasdaarquitetura.wordpress.com/2012/04/15/prairie-houses/",
+    "tags": [
+      "Estados Unidos",
+      "Frank Lloyd Wright",
+      "horizontalidade",
+      "integração paisagística"
+    ]
+  },
+  {
+    "nome": "Arquitetura Sustentável",
+    "descricao": "Voltada para reduzir impactos ambientais, a arquitetura sustentável utiliza materiais renováveis, estratégias bioclimáticas e soluções de eficiência energética. Prioriza conforto, economia de recursos e integração com o meio ambiente, representando uma visão responsável do futuro.",
+    "ano": "Final do Século XX em diante",
+    "imagem":"imagens/arqSustentavel.jpg",
+    "link": "https://www.mundoisopor.com.br/inovacao/arquitetura-sustentavel",
+    "tags": [
+      "ecológica",
+      "bioclimática",
+      "eficiência energética",
+      "contemporâneo"
+    ]
+  }
+]
