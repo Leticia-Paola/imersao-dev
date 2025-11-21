@@ -19,4 +19,4 @@ E, entrando na área de tecnologia, quis começar com algo que fizesse sentido p
 
 Feedbacks são super bem-vindos.
 
-Esse projeto é só o começo — e eu pretendo ir longe.
+Esse projeto é só o começo, e eu pretendo ir longe.
