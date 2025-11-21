@@ -13,8 +13,7 @@ E, entrando na área de tecnologia, quis começar com algo que fizesse sentido p
 - HTML5
 - CSS3
 - JavaScript
-- (Alura, Google e muita paciência)
-
+  
 ✨ Contribuições
 
 Feedbacks são super bem-vindos.
